@@ -1,3 +1,5 @@
 # HTML_projects
 <!--HTML ONLY!!-->
-Ashley Hannigan's Resume. 
+Ashley Hannigan's Resume (index.html). 
+
+
