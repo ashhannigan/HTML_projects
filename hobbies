@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Ashley's hobbies</h1>
+    <hr />
+    <h2>Active hobbites:</h2>
+        <ol>
+            <li>Tennis! </li>
+            <ul><li>I played in high school and I absolutely LOVE it! It truly is a sport for all 
+                ages. You may have heard of Serena Williams, but at the time I am making this website, the #1 ranked
+                Womens Single's Player is <a href="https://www.wtatennis.com/players/326408/iga-swiatek" >
+                Iga Swiatek. </a> She is currently 22 years old, born May 31 2001 in Poland.</li>
+            </ul>
+           
+            <li>Paddle Boarding</li>
+            <li>Pickleball</li>
+            <li>Sky Diving!</li>
+        </ol>
+    <h2>Rainy day, COVID times, or just strictly an indoor kinda day activities:</h2>
+    <ol>
+        <li>Coding! </li>
+        <ul>
+            <li>Some of the projects I have developed you can find at my  <a href="https://github.com/ashhannigan" >
+             Github. </a></li>
+             <li>You can also check out my <a href="https://www.codecademy.com/profiles/ashleyHannigan7987802598">
+                CodeAcademy.
+             </a></li>
+            </ul>
+        <li>Reading</li>
+        <li>Painting</li>
+        <li>Cuddling with my dogs!</li>
+</body>
+</html>
